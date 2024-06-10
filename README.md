@@ -37,7 +37,7 @@ I am an outstanding communicator with a proven track record of explaining comple
 
 ## Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL,HTML,CSS,JAVA
 - **Data Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
 - **Business Intelligence:** Power BI, Tableau
